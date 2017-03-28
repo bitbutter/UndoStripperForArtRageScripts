@@ -1,6 +1,10 @@
 # UndoStripperForArtRageScripts
 A simple tool for the [ArtRage](https://www.artrage.com/) drawing program. The tool strips out strokes that were removed with an Undo event from ArtRage script recordings. This tool has been built in [Unity](https://unity3d.com/).
 
+# Download
+
+Get the latest version [from the releases page](https://github.com/bitbutter/UndoStripperForArtRageScripts/releases).
+
 # Instructions
 
 * Duplicate an existing ArtRage script file that has Undo events in it.
