@@ -5,7 +5,9 @@ A simple tool for the [ArtRage](https://www.artrage.com/) drawing program. The t
 
 * Duplicate an existing ArtRage script file that has Undo events in it.
 
-* Open the duplicated file in a text editor (e.g. Sublime text). Select all the text and copy it to the clipboard.
+* Open the duplicated file in Sublime Text. Delete any 'NUL' items you see inside the Header block.
+
+* Select all the text in the file and copy it to the clipboard.
 
 * Launch UndoStripperForArtRageScripts and click the 'Process' button. After a short delay the background will turn green. Then go back to the text editor and paste the clipboard contents back in, overwriting the selection. Save the file.
 
