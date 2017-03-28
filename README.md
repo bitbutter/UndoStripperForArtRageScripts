@@ -1,5 +1,5 @@
 # UndoStripperForArtRageScripts
-A simple tool for the ArtRage drawing program. The tool strips out strokes that were removed with an Undo event from ArtRage script recordings.
+A simple tool for the [ArtRage](https://www.artrage.com/) drawing program. The tool strips out strokes that were removed with an Undo event from ArtRage script recordings.
 
 # Instructions
 
